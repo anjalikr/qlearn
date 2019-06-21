@@ -1,0 +1,3 @@
+this is my file1
+thiis data from hardfile
+this is third line from file1
